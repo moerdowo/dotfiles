@@ -4,6 +4,7 @@
 # Simple Program Name Shortening
 alias g=git
 alias c=clear
+#alias j=autojump
 
 #############################
 # Utilities
